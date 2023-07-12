@@ -1,0 +1,15 @@
+.app {
+    box-sizing: border-box;
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgb(202, 171, 171), rgb(179, 209, 179), rgb(174, 174, 216));
+  }
+  
+  .btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  
